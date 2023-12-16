@@ -63,7 +63,7 @@ const showWinner = (winner) => {
 
 const drawGame = () => {
     count = 0;
-    msg.innerText = `Match Draw! Try again..,`;
+    msg.innerText = `Match Draw! Try again...`;
     msgContainer.classList.remove("hide");
     resetBtn.classList.add("hide");
     heading.classList.add("hide");
