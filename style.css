@@ -9,6 +9,7 @@
     font-size: 2.3rem;
     background: -webkit-linear-gradient(rgb(25,25,19), rgb(5,74,41));
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
 }
 
